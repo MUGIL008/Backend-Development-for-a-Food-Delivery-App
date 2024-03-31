@@ -53,28 +53,6 @@ fix_price
 # Validations:
 Implement validations for API input payloads to ensure data integrity.
 
-# Folder Structure
-/food-delivery-backend
-|--/config
-|  |--db.js
-|-- /controllers
-|   |-- pricingController.js
-|-- /models
-|   |-- organization.js
-|   |-- item.js
-|   |-- pricing.js
-|-- /routes
-|   |-- pricingRoutes.js
-|-- /services
-|   |-- pricingService.js
-|-- /tests
-|   |-- pricing.test.js
-|-- app.js
-|-- swaggerOptions.js
-|-- .gitignore
-|-- package.json
-|-- .eslintrc.json
-|-- README.md
 # Implementation Steps
 # Setup Project:
 
