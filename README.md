@@ -83,3 +83,9 @@ Integrate Swagger in swaggerOptions.js to document the API endpoints.
 # Implement Error Handling:
 
 Handle errors and input validation in the API.
+
+
+
+
+# Output
+![image](https://github.com/MUGIL008/Backend-Development-for-a-Food-Delivery-App/assets/78331455/ddc2212c-a796-4e29-bbe2-3442c387357a)
