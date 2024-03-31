@@ -32,8 +32,8 @@ The API should return the total price for delivering the specified food items in
 # Database Schema
 Database: PostgreSQL
 
-#Design:
-#Organization Table:
+# Design:
+# Organization Table:
 
 id (Primary Key)
 name
